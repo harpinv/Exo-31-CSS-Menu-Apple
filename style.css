@@ -1,0 +1,220 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.entete {
+    background-color: #424245;
+    height: 70px;
+    color: white;
+    text-align: center;
+}
+
+.choisir {
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    width: 500px;
+    font-size: 14px;
+    text-align: left;
+    vertical-align: -10px;
+}
+
+.continue {
+    display: inline-block;
+}
+
+select {
+    border-color: white;
+    border-radius: 10px;
+    width: 350px;
+    background-color: #424245;
+    color: white;
+    font-size: 15px;
+    padding: 7px;
+}
+
+button {
+    background-color: #0071E3;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    padding: 7px 10px;
+}
+
+button:hover {
+    background-color: #0077ED;
+}
+
+.pop {
+    display: inline-block;
+
+}
+
+#photo {
+
+    vertical-align: -18px;
+}
+
+.liste {
+    background-color: #323232;
+    height: 50px;
+    color: #D6D6D6;
+    text-align: center;
+}
+
+.pipe {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.vive {
+    margin-left: 15px;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.vive:hover {
+    color: white;
+}
+
+.tic {
+    background-color: #FBFBFB;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#photo2 {
+    height: 550px;
+}
+
+.toc {
+    background-color: black;
+    margin-top: 10px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#photo3 {
+    height: 575px;
+}
+
+.vin {
+    background-color: #010028;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#photo4 {
+    height: 550px;
+}
+
+.mon {
+    background-color: #FBFBFD;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-left: 105px;
+    padding-right: 105px;
+    text-align: center;
+    display: inline-block;
+}
+
+#photo5 {
+    height: 575px;
+}
+
+.min {
+    background-color: #F5F5F7;
+    margin-right: 10px;
+    padding-top: 20px;
+    text-align: center;
+    display: inline-block;
+    padding-left: 89px;
+    padding-right: 89px;
+}
+
+#photo6 {
+    height: 575px;
+}
+
+.pin {
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    display: inline-block;
+    padding: 25px 94px;
+}
+
+#photo7 {
+    height: 535px;
+}
+
+.pon {
+    margin-top: 10px;
+    margin-right: 10px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#photo8 {
+    height: 590px;
+}
+
+.lin {
+    background-color: black;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-right: 75px;
+    padding-left: 75px;
+    text-align: center;
+    display: inline-block;
+}
+
+#photo9 {
+    height: 575px;
+}
+
+.lon {
+    background-color: black;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-right: 80px;
+    padding-left: 80px;
+    text-align: center;
+    display: inline-block;
+}
+
+#photo10 {
+    height: 575px;
+}
+
+.tele {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#photo11 {
+    height: 575px;
+}
+
+#photo12 {
+    height: 569px;
+}
